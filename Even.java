@@ -13,7 +13,7 @@ class Even
     }
   }
 }
-class Even
+class EvenOdd
 {
   static void fetch(int a,int b)
   {
